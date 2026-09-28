@@ -1,0 +1,27 @@
+{
+  "api_token": "vk-q881cVHmS5Ikm-aGtsaDD7ozb6_7H2u8",
+  "base_url": "https://vibecode.moe/v1",
+  "model": "claude-sonnet-5",
+  "api_format": "auto",
+  "max_tokens": 1024,
+  "system_prompt": "Отвечай кратко на русском. Пиши только ответ.",
+  "opacity": 0.85,
+  "always_on_top": true,
+  "watch_clipboard": true,
+  "widget_pos": [
+    1760,
+    516
+  ],
+  "widget_size": [
+    448,
+    279
+  ],
+  "hotkeys": {
+    "toggle_widget": "ctrl+shift+h",
+    "open_settings": "ctrl+shift+s",
+    "toggle_watch": "ctrl+shift+p",
+    "quit": "ctrl+shift+q",
+    "opacity_up": "ctrl+alt+up",
+    "opacity_down": "ctrl+alt+down"
+  }
+}

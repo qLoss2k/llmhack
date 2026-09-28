@@ -1,0 +1,4 @@
+PyQt6>=6.6,<7.0
+requests>=2.31
+keyboard==0.13.5
+openai>=1.40,<3.0
